@@ -1,0 +1,25 @@
+.top-menu a
+{
+  font-size:12px;
+}
+
+.top-menu.navbar
+{
+    line-height: 1;
+    padding-top:0px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 0px;
+}
+
+.top-menu .navbar-brand
+{
+  padding-top: 0px;
+  padding-bottom: 4px;
+  line-height:none;
+}
+
+a, a:link, a:active, a:visited
+{
+  color:white;
+}
